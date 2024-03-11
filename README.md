@@ -1,4 +1,4 @@
 # java-graphics
 Java assignment
 Drawing Dino based on the texts
-![Model](https://github.com/klinh-tran/Graphic-assignment-Java/blob/main/dinosaur.png = 20x20)
+![Model](https://github.com/klinh-tran/Graphic-assignment-Java/blob/main/dinosaur.png width="48")
